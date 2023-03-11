@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battery Level Alert</string>
+    <string name="stop">Stop</string>
+    <string name="your_battery_level_is">Your Battery Level Is:</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="please_plug_in_you_phone">Please plug Out you phone</string>
+</resources>
